@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @seth16888
-- 👀 I’m interested in JAVA,Dart,Flutter
+- 👋 Hi, I’m Seth Feng
+- 👀 I’m interested in Backend, Golang, Java
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 emailto: ucipl0094@hotmail.com
 
 <!---
 seth16888/seth16888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
