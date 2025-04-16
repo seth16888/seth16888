@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Seth Feng
 - 👀 I’m interested in Backend, Golang, Java
-- 🌱 I’m currently learning Flutter
 - 📫 emailto: ucipl0094@hotmail.com
 
 <!---
